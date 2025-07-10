@@ -1,0 +1,16 @@
+productID,type,author/artist,numInStock,price
+1,cd,a hard day's night,the beatles,3,3.99
+2,book,flowers for algernon,daniel keyes,7,6.99
+3,cd,a night at the opera,queen,14,6.99
+4,book,the little prince,antoine de saint exupÃ©ry,10,7.0
+5,cd,cuz I love you,lizzo,8,7.99
+6,dvd,jurassic park,n/a ,7,7.99
+7,book,charlotte's web,e.b. white,10,8.99
+8,book,fahrenheit 451,ray bradbury,8,9.99
+9,book,hitchhiker's guide to the galaxy,douglas adams,5,9.99
+10,book,catch-22,joseph heller,20,11.99
+11,book,to kill a mockingbird,harper lee,12,12.99
+12,dvd,the dark knight,n/a,5,12.99
+13,book,beloved,toni morrison,4,13.5
+14,book,1984,george orwell,5,15.99
+15,book,brave new world,aldous huxley,14,19.0
