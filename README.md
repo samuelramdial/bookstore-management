@@ -1,5 +1,9 @@
-# Bookstore Management System 
+# Bookstore Management System
+
+
 A comprehensive, semester-long **Object-Oriented Java Application** for managing a bookstore's operations - from **inventory control** and **member management** to **purchase tracking** and *daily sales reporting**. This project was developed for ITSC 1213 and progressively enhanced through three major phases, incorporating **inheritance**, **abstraction**, **file I/O**, and **exception handling**.
+
+
 ---
 ## Features by Project Phase 
 ### Project 1: Core Bookstore Functionality
@@ -36,6 +40,9 @@ A comprehensive, semester-long **Object-Oriented Java Application** for managing
   - Daily sales and discounts
   - Custom inventory filenames prompted on start
   - Flexible user interaction with error-tolerant flows
+ 
+---
+
 ## Developed For 
 **ITSC 1213 - Introduction to Computer Science II** 
 University of North Carolina at Charlotte 
