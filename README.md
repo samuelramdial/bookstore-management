@@ -45,7 +45,9 @@ A comprehensive, semester-long **Object-Oriented Java Application** for managing
 
 ## Developed For 
 **ITSC 1213 - Introduction to Computer Science II** 
+
 University of North Carolina at Charlotte 
+
 Instructor: Dr. Nadia Najjar 
 
 © 2025 Samuel Ramdial
